@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- [Azure Sentinel Map with Cyber Attacks](https://github.com/joshmadakor1/Algorithms-Practice)
+- [Microsoft Azure Sentinel (SIEM) Lab](https://github.com/joshmadakor1/Algorithms-Practice)
 
 
 <h2>📄 Certifications</h2>
