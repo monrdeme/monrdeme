@@ -4,6 +4,7 @@
 
 - [Microsoft Azure Sentinel (SIEM) Lab](https://github.com/monrdeme/MicrosoftAzureSentinelLab)
 - [Active Directory Home Lab](https://github.com/monrdeme/ActiveDirectoryLab)
+- [File Integrity Monitor](https://github.com/monrdeme/MicrosoftAzureSentinelLab)
 
 
 
