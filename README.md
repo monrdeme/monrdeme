@@ -2,9 +2,9 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- [Microsoft Azure Sentinel (SIEM) Lab](https://github.com/monrdeme/MicrosoftAzureSentinelLab)
+- [Microsoft Azure Sentinel (SIEM)](https://github.com/monrdeme/MicrosoftAzureSentinelLab)
 - [Active Directory Home Lab](https://github.com/monrdeme/ActiveDirectoryLab)
-- [File Integrity Monitor](https://github.com/monrdeme/MicrosoftAzureSentinelLab)
+- [File Integrity Monitor](https://github.com/monrdeme/FileIntegrityMonitorLab)
 
 
 
