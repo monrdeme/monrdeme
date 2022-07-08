@@ -7,8 +7,7 @@
 - [File Integrity Monitor](https://github.com/monrdeme/FileIntegrityMonitorLab)
 - [REST API](https://github.com/monrdeme/RESTAPI)
 - [Nessus: Vulnerability Management](https://github.com/monrdeme/NessusVulnerabilityManagement)
-
-
+- [Port Scanner](https://github.com/monrdeme/PortScanner)
 
 <h2>📄 Certifications</h2>
 
