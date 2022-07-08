@@ -6,7 +6,7 @@
 - [Active Directory Home Lab](https://github.com/monrdeme/ActiveDirectoryLab)
 - [File Integrity Monitor](https://github.com/monrdeme/FileIntegrityMonitorLab)
 - [REST API](https://github.com/monrdeme/RESTAPI)
-- [Nessus: Vulnerability Management](https://github.com/monrdeme/RESTAPI)
+- [Nessus: Vulnerability Management](https://github.com/monrdeme/NessusVulnerabilityManagement)
 
 
 
