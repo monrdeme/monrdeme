@@ -11,8 +11,9 @@
 
 <h2>📄 Certifications</h2>
 
-- [eJPT - Junior Pen Tester](https://verified.elearnsecurity.com/certificates/b8bf23e4-250b-4f68-bd98-d1c5d1c3d79f)
 - [CompTIA Security+](https://www.credly.com/badges/838387a7-0dcd-4304-9d06-11c52216050e)
+- [Security Blue Team BTL1 - Blue Team Level 1](https://www.credly.com/badges/30451302-d6d1-48fc-a858-90e0cc78367a/public_url)
+- [eJPT - Junior Pen Tester](https://verified.elearnsecurity.com/certificates/b8bf23e4-250b-4f68-bd98-d1c5d1c3d79f)
 
 <h2> 🤳 Connect with me:</h2>
 
