@@ -12,6 +12,7 @@
 <h2>📄 Certifications</h2>
 
 - [CompTIA Security+](https://www.credly.com/badges/838387a7-0dcd-4304-9d06-11c52216050e)
+- [AWS Certified Solutions Architect - Associate](https://www.credly.com/badges/6c5f9b89-e491-40b2-b472-bab9d4c5825e)
 - [Security Blue Team BTL1 - Blue Team Level 1](https://elearning.securityblue.team/home/certificate/108087763)
 - [eJPT - Junior Pen Tester](https://verified.elearnsecurity.com/certificates/b8bf23e4-250b-4f68-bd98-d1c5d1c3d79f)
 
