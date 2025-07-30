@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- [Secure Multi-Tier Application on AWS](https://github.com/monrdeme/aws-multi-tier-app)
+- [Secure Multi-Tier Web Application Deployment on AWS](https://github.com/monrdeme/aws-multi-tier-app)
 - [Hosting a Secure Static Website on Amazon S3](https://github.com/monrdeme/secure-static-site-aws)
 - [Microsoft Azure Sentinel (SIEM)](https://github.com/monrdeme/MicrosoftAzureSentinelLab)
 - [Active Directory Home Lab](https://github.com/monrdeme/ActiveDirectoryLab)
